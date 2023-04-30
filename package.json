@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "jsencrypt": "^3.3.2"
+  },
+  "name": "labwork11togithub",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lingrode/Labwork11toGithub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lingrode/Labwork11toGithub/issues"
+  },
+  "homepage": "https://github.com/Lingrode/Labwork11toGithub#readme",
+  "description": ""
+}
